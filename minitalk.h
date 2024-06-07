@@ -6,13 +6,15 @@
 /*   By: sshahini <sshahini@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/06/07 21:00:47 by sshahini          #+#    #+#             */
-/*   Updated: 2024/06/07 21:36:38 by sshahini         ###   ########.fr       */
+/*   Updated: 2024/06/07 21:48:32 by sshahini         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef MINITALK_H
 # define MINITALK_H
 
+# include "libftprintf/libft/libft.h"
+# include "libftprintf/printf/ft_printf.h"
 # include <signal.h>
 # include <stdio.h>
 # include <unistd.h>
